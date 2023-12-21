@@ -34,21 +34,54 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Preethi Jagan 
+RegisterNumber: 23008364  
 */
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+### Program
 
+### Half Hadder
 
-### TRUTH TABLE 
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/05132f57-c9de-4795-b9fe-9ff036cf9471)
+
+### Full Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/ff1347f2-e11d-450d-a535-c1d05af912ea)
+
+### Truth Table
+
+### Half Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/6cfd9abd-4056-43c5-b4e3-12e65abf8a89)
+
+### Full Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/ec4945e3-e890-4848-8a28-47e5e61477d0)
+
+### RTL Diagram
+
+### Half Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/c9fd586e-4ad0-4f5e-8fd5-d3ca24c84e85)
+
+### Full Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/ab1e7947-de6a-4c0b-beaf-5fa7629e22aa)
+
+### Timing Diagram
+
+### Half Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/985089ba-2bea-49b9-8dcb-5d9d4082502b)
+
+### Full Hadder
+
+![image](https://github.com/Preethijgan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870652/d5804976-bdd4-4f82-b6d5-9ebb39b1e931)
 
 ### Result:
+
+Thus, the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
